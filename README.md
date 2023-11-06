@@ -34,8 +34,8 @@ SRGAN Super-Resolution image
 32x32 Low-resolution image
 
 -----
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_a_performance.png]
+![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_a.png]
 Model A's F1 Score and Accuracy results
 
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_b_performance.png]
+![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_b.png]
 Model B's F1 Score and Accuracy results
