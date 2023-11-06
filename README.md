@@ -18,24 +18,24 @@
 - [x] compare the performance of both models using different metrics such as F1, Accuracy, AUC
 
 ## Results
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_output.png]
+![image](https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_output.png)
 SRGAN result:
 - left image (128x128) input of discriminator network
 - middle image (32x32) input of generator network
 - right image is the result of super super-resolution
 
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_gen.png]
+![image](https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_gen.png)
 SRGAN Super-Resolution image
 
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_hr.png]
+![image](https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_hr.png)
 128x128 High-Resolution image
 
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_lr.png]
+![image](https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/srgan_lr.png)
 32x32 Low-resolution image
 
 -----
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_a.png]
+![image](https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_a.png)
 Model A's F1 Score and Accuracy results
 
-![https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_b.png]
+![image](https://github.com/samxu29/Applied-AI-SRGAN/tree/main/img/model_b.png)
 Model B's F1 Score and Accuracy results
